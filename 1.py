@@ -76,3 +76,5 @@ for i in range(1,220):
 	print('停止抓包')
 	zzz = i + 1
 	print(zzz)
+	print(zzz)
+	print(zzz)
